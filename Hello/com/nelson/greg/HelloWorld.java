@@ -8,5 +8,6 @@ public class HelloWorld {
 
     public static void main(String [] args) {
         LOGGER.info("Logger Name: " + LOGGER.getName());
+        LOGGER.info("Hello World!");
     }
 }
